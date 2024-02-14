@@ -1,5 +1,5 @@
 <template>
   <nav>
-    <NuxtLink class="lg:hidden" to="/my-account" :prefetch="false">Mega Menu</NuxtLink>
+    <NuxtLink class="" to="/aboutnuxt" :prefetch="false">About Nuxt</NuxtLink>
   </nav>
 </template> 
